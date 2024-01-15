@@ -17,7 +17,7 @@ Fron-End-Mentor challenges
 
 
   # Links
-    [Link to deployed page](https://polishko.github.io/Task1/task1.html)
+    [Link to page](https://polishko.github.io/Task1/task1.html)
 
   # Built with
     - Semantic HTML5 markup
