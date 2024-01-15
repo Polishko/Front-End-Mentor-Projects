@@ -8,6 +8,20 @@ Fron-End-Mentor challenges
     - [Screenshot](#screenshot)
     - [Links](#links)
     - [Built with](#built-with)
-    - [Author](#author)
+   
+# Task1
+
+  # Screenshot
+
+  ![image](https://github.com/Polishko/Front-End-Mentor-Projects/assets/119063181/8c089de3-bc64-4a73-8127-b325cd94bf9c)
+
+
+  # Links
+    [Link to deployed page](https://polishko.github.io/Task1/task1.html)
+
+  # Built with
+    - Semantic HTML5 markup
+    - CSS custom properties
+    - Flexbox
 
 
